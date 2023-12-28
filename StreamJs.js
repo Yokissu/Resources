@@ -49,7 +49,7 @@ let footer = document.querySelector('footer')
 let timer = 0
 
 if (document.getElementById("heading").classList.contains("title")) {
-    document.querySelector(".title").textContent = '🦋Kiss🦋'
+    document.querySelector(".title").textContent = '🦋𝐊𝐢𝐬𝐬𝐮🦋'
 }
 
 // adding under in home btn at first 
